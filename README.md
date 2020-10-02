@@ -1,5 +1,5 @@
 ### Hello, Universe! 👋
-(https://github.com/jeetbanik/jeetbanik/blob/main/Kartograf_v0-0-1-2.gif)
+!(https://github.com/jeetbanik/jeetbanik/blob/main/Kartograf_v0-0-1-2.gif)
 <!--
 **jeetbanik/jeetbanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
